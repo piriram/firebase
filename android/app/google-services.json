@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "387157056722",
+    "project_id": "test-project-soram",
+    "storage_bucket": "test-project-soram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387157056722:android:eaaaf904b7a45085d8a10b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_chap_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387157056722-e3k6hbfvu42blv2lu5fai0kvo4g45mdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGPdreSy1IvGSBlUxO78G9yMuLYV0x10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387157056722-e3k6hbfvu42blv2lu5fai0kvo4g45mdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387157056722-n7ha0pcl3j70nrdj19tj7s92hkjtaver.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAppChap10"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
